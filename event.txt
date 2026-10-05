@@ -1,0 +1,17 @@
+Event: AI Workshop
+Date: 15 October 2026
+Department: CSE
+Skills: Artificial Intelligence, Machine Learning
+Eligibility: 2nd, 3rd and 4th year students
+
+Event: Hackathon 2026
+Date: 20 October 2026
+Department: All Departments
+Skills: Coding, Problem Solving, AI
+Eligibility: All students
+
+Event: Data Science Bootcamp
+Date: 25 October 2026
+Department: CSD
+Skills: Python, Machine Learning, Data Analysis
+Eligibility: 2nd, 3rd and 4th year students
